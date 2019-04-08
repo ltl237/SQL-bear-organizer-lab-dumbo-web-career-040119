@@ -1,1 +1,4 @@
-CREATE TABLE 
+CREATE TABLE cats (
+  id INTEGER PRIMARY KEY,
+  name 
+)
